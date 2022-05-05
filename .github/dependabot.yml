@@ -6,10 +6,5 @@ updates:
     interval: daily
     time: "10:00"
     timezone: Europe/Moscow
-  reviewers:
-    - "jakecoffman"
-  assignees:
-    - "jakecoffman"
   labels:
-    - "scope/backend"
-    - "type/dependencies"
+    - "testing"
